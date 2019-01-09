@@ -4,6 +4,9 @@
 
 > 此插件并没有提供新的功能, 只是在原vue-preview插件基础之上简化了操作, 无需使用`vue-preview`组件, 直接使用`img`标签绑定点击事件即可
 
+![](https://img.shields.io/npm/dm/vue-pic-preview.svg)
+![](https://img.shields.io/npm/v/vue-pic-preview.svg)
+
 ## Requirements
 
 [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe)
