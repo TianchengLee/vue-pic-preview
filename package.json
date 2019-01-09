@@ -1,0 +1,27 @@
+{
+  "name": "vue-pic-preview",
+  "version": "1.0.0",
+  "description": "A Vue2 image preview plugin based on vue-preview",
+  "main": "src/plugins/preview/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianchengLee/vue-pic-preview.git"
+  },
+  "dependencies": {
+    "photoswipe": "^4.1.1"
+  },
+  "keywords": [
+    "vue",
+    "preview",
+    "photoswipe"
+  ],
+  "author": "TianchengLee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TianchengLee/vue-pic-preview/issues"
+  },
+  "homepage": "https://github.com/TianchengLee/vue-pic-preview#readme"
+}
